@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shankar Karuppayah
+title: Ts. Dr. rer. nat. Shankar Karuppayah
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -27,7 +27,8 @@ organizations:
     url: https://www.usm.my/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Shankar Karuppayah is a currently a Senior Lecturer at the National Advanced IPv6 Centre (NAv6), Universiti Sains Malaysia since 2016.
+bio: My research interests include malware analysis, botnet monitoring, distributed systems and Internet of Things.
+
 
 # Interests to show in About widget
 interests:
@@ -39,15 +40,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD in Computer Science (Cyber Security)
+    institution: Technische Universität Darmstadt, Germany
+    year: 2016
+  - course: MSc in Software Systems Engineering
+    institution: RWTH Aachen, Germany & King Mongkut's University of Technology North Bangkok, Thailand
+    year: 2011
+  - course: BSc (HONS) in Computer Science (Networking)
+    institution: Universiti Sains Malaysia, Malaysia
+    year: 2009
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -97,27 +99,33 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: key
+    icon_pack: fas
+    link: uploads/shankar.karuppayah.asc
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://twitter.com/sh_nk_r
+    label: Follow me on X
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.co.uk/citations?user=hB67snYAAAAJ&hl=en
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-4801-6370
+  - icon: dblp
+    icon_pack: ai  
+    link: https://dblp.org/pers/hd/k/Karuppayah:Shankar
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/shankarkaruppayah/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
