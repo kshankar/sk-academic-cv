@@ -171,10 +171,15 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Cybersecurity
+          tag: Cyber Security
+        - name: Internet of Things
+          tag: Internet of Things
+	- name: Capacity Building
+	  tag: Training
+	- name: Others
+	  tag: Others
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
