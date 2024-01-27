@@ -4,7 +4,7 @@ date: "2019-01-01"
 publishDate: "2020-05-04T00:59:59.017331Z"
 authors: 
 - Leon Böck 
-- admin
+- Shankar Karuppayah
 - Kory Fong
 - Max Mühlhäuser
 - Emmanouil Vasilomanolakis
