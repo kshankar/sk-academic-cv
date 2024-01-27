@@ -176,9 +176,9 @@ sections:
         - name: Internet of Things
           tag: Internet of Things
 	- name: Capacity Building
-	  tag: Training
+          tag: Training
 	- name: Others
-	  tag: Others
+          tag: Others
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
