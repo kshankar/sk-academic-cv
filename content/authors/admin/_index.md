@@ -17,12 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Founder of BitRanger Sdn Bhd, Deputy Director and Senior Lecturer at Universiti Sains Malaysia
+role: Cybersecurity Startup Founder, Deputy Director and Senior Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National Advanced IPv6 Centre (NAv6), Universiti Sains Malaysia (USM)
-    url: https://www.nav6.usm.my/
+  - name: BitRanger Sdn. Bhd. 
+    url: https://www.bitranger.io/
+  - name: Universiti Sains Malaysia (USM)
+    url: https://www.usm.my/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Shankar Karuppayah is a currently a Senior Lecturer at the National Advanced IPv6 Centre (NAv6), Universiti Sains Malaysia since 2016.
