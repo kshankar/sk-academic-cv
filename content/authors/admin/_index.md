@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Founder of BitRanger Sdn Bhd 
+role: Founder of BitRanger Sdn Bhd | Deputy Director and Senior Lecturer at Universiti Sains Malaysia
 
 # Organizations/Affiliations to show in About widget
 organizations:
