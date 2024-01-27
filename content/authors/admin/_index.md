@@ -3,7 +3,7 @@
 title: Shankar Karuppayah
 
 # Name pronunciation (optional)
-name_pronunciation: Shankar Karuppayah
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Shankar
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Founder of BitRanger Sdn Bhd | Deputy Director and Senior Lecturer at Universiti Sains Malaysia
+role: Founder of BitRanger Sdn Bhd, Deputy Director and Senior Lecturer at Universiti Sains Malaysia
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National Advanced IPv6 Centre (NAv6)
+  - name: National Advanced IPv6 Centre (NAv6), Universiti Sains Malaysia (USM)
     url: https://www.nav6.usm.my/
 
 # Short bio (displayed in user profile at end of posts)
