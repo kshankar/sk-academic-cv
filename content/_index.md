@@ -175,9 +175,9 @@ sections:
           tag: Cyber Security
         - name: Internet of Things
           tag: Internet of Things
-	- name: Capacity Building
+        - name: Capacity Building
           tag: Training
-	- name: Others
+        - name: Others
           tag: Others
 
     design:
