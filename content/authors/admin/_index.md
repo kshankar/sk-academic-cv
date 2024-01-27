@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ts. Dr. rer. nat. Shankar Karuppayah
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shankar Karuppayah
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shankar
+last_name: Karuppayah
 
 # Status emoji
 status:
@@ -17,21 +17,24 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Founder of BitRanger Sdn Bhd and Deputy Director at Universiti Sains Malaysia
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National Advanced IPv6 Centre (NAv6), Universiti Sains Malaysia (USM)
+    url: https://www.nav6.usm.my/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Shankar Karuppayah is a currently a Senior Lecturer at the National Advanced IPv6 Centre (NAv6), Universiti Sains Malaysia since 2016.
+
+He obtained his B.Sc (HONS) Computer Science from Universiti Sains Malaysia in 2009 and his M.Sc. Software Systems Engineering from King Mongkut’s University of Technology North Bangkok (KMUTNB) in 2011. In 2016, Shankar Karuppayah obtained his PhD (Dr. rer. nat.) from TU Darmstadt with his dissertation titled “Advanced Monitoring in P2P Botnets”.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cybersecurity
+  - Botnet Monitoring
+  - Distributed Systems
+  - Internet of Things
 
 # Education to show in About widget
 education:
