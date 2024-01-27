@@ -101,7 +101,7 @@ social:
     link: '/#contact'
   - icon: key
     icon_pack: fas
-    link: static/uploads/shankar.karuppayah.asc
+    link: uploads/shankar.karuppayah.asc
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sh_nk_r
@@ -125,7 +125,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: static/uploads/cv.pdf
+    link: uploads/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
